@@ -1,4 +1,4 @@
-# Hi there, I'm Ashish - aka [Ashu] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Ashish <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="profile" height="160px" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47rlghdg2pl7xp3jgub93g8ltbjp5yrehadaxbuksp&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
