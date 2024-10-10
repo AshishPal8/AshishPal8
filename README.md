@@ -2,9 +2,9 @@
 
 <img align="right" alt="profile" height="160px" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47rlghdg2pl7xp3jgub93g8ltbjp5yrehadaxbuksp&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-## I'm a Bachelor of Computer Application (BCA) Student  
+## I'm a Masters of Computer Application (MCA) Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, Reactjs, NextJs, NodeJs etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
