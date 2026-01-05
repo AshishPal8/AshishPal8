@@ -1,94 +1,44 @@
 # Hi there, I'm Ashish <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="profile" height="160px" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47rlghdg2pl7xp3jgub93g8ltbjp5yrehadaxbuksp&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" alt="coding" height="180px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpndW1uM3Z4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-## I'm a Masters of Computer Application (MCA) Student  
+## 🚀 Full Stack Developer | 2+ Years Experience
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, Reactjs, NextJs, NodeJs etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
----
-
-### Programming Languages 🌐
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Github</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Framer Motion</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/framer.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
+- 🎓 **MCA Graduate** with a passion for building scalable web applications.
+- 🏢 Currently working on professional **LMS systems** and high-performance web apps.
+- 🛠️ Building **Rydmate** & **Meet App** (Personal MVPs) using modern tech stacks.
+- ⚡ Focused on **DSA Patterns** and writing clean, maintainable code.
 
 ---
 
+### 💻 Tech Stack & Tools
 
-<h1 align="center">
-✨ Where you can find me ✨
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
+| **Animations** | ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
 
-<p align="center">
-  <br/>
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AshishPal8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishPal8&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### ✨ Let's Connect
+<p align="left">
   <a href="https://www.linkedin.com/in/ashishpal8/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
-  <a href="https://github.com/parth-27">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-  <br/>
-
   <a href="https://x.com/Ashish_Pal_01">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
-</h1>
-<br />
 
----
-
- ### ⭐️ From [Ashish](https://github.com/AshishPal8) ### 
- 
 ---
