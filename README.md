@@ -25,7 +25,7 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AshishPal8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AshishPal8&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishPal8&layout=compact&theme=tokyonight"/>
 </p>
 
